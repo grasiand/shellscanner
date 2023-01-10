@@ -1,0 +1,15 @@
+commandshell.php
+mailershell.php
+cwshell.php
+iranshell.php
+indishell.php
+g6sshell.php
+sqlshell.php
+simshell.php
+tryagshell.php
+zehirshell.php
+k2ll33d.php
+b1n4ry.php
+12.php
+default.php
+blank.php
